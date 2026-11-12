@@ -39,6 +39,8 @@ The dataset was imported into PostgreSQL using pgAdmin 4. SQL queries were used 
 
 An interactive Power BI dashboard was developed using the PostgreSQL dataset.
 
+**Dashboard file:** [Retail_Sales_Analysis.pbix](Retail_Sales_Analysis.pbix)
+
 **Dashboard components:**
 - KPI cards: Total Sales, Total Orders, Total Quantity Sold, and Average Sales per Record
 - Sales by product line
@@ -95,6 +97,7 @@ Python was used for data inspection, preparation, KPI calculations, exploratory 
 ## Repository Contents
 
 - `Retail_Sales_Analysis.xlsx` — Excel workbook and dashboard
+- `Retail_Sales_Analysis.pbix` — Power BI interactive dashboard
 - `retail_sales_analysis.sql` — PostgreSQL analysis queries
 - `Retail_Sales_Analysis_Python.py` — Python analysis script
 - `python_kpi_summary.csv` — Python KPI summary
