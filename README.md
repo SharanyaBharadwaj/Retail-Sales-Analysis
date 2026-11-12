@@ -83,6 +83,30 @@ Python was used for data inspection, preparation, KPI calculations, exploratory 
 
 ![Python Sales by Country](sales_by_country.png)
 
+**Sales by Deal Size**
+
+![Python Sales by Deal Size](sales_by_deal_size.png)
+
+**Sales by Order Status**
+
+![Python Sales by Order Status](sales_by_order_status.png)
+
+**Sales by Product Line**
+
+![Python Sales by Product Line](sales_by_product_line.png)
+
+**Sales by Year**
+
+![Python Sales by Year](sales_by_year.png)
+
+**Top 10 Customers**
+
+![Python Top 10 Customers](top_10_customers.png)
+
+**Top 10 Products**
+
+![Python Top 10 Products](top_10_products.png)
+
 **Main files:**
 - `Retail_Sales_Analysis_Python.py` — Python analysis script
 - `python_kpi_summary.csv` — KPI summary
