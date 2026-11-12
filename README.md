@@ -24,6 +24,10 @@ The Excel workbook includes:
 
 **Workbook:** [Retail_Sales_Analysis.xlsx](Retail_Sales_Analysis.xlsx)
 
+**Dashboard preview:**
+
+![Excel Retail Sales Analysis Dashboard](<Project number 2.png>)
+
 ### 2. PostgreSQL
 
 The dataset was imported into PostgreSQL using pgAdmin 4. SQL queries were used to calculate key metrics and analyze:
@@ -101,6 +105,7 @@ Python was used for data inspection, preparation, KPI calculations, exploratory 
 ## Repository Contents
 
 - `Retail_Sales_Analysis.xlsx` — Excel workbook and dashboard
+- `Project number 2.png` — Excel dashboard screenshot preview
 - `Retail_Sales_Analysis.pbix` — Power BI interactive dashboard
 - `Retail_Sales_Analysis_Screenshot .png` — Power BI dashboard screenshot preview
 - `retail_sales_analysis.sql` — PostgreSQL analysis queries
